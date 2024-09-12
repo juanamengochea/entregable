@@ -4,9 +4,9 @@
 
 let products = [
   // category Beverages
-  new Product(1, "Vino Rutini Cabernet Malbec estuche con 2 unidades", 28776.14, 20, 6, "./assets/img-productos/bebidas/vino.png"),
-  new Product(2, "Cerveza Quilmes 6 pack", 6000.00, 30, 6, "./assets/img-productos/bebidas/cerveza.png"),
-  new Product(3, "Fernet Branca 750ml", 12000.00, 15, 6, "./assets/img-productos/bebidas/fernet.png"),
+  new Product(1, "Vino Rutini Cabernet Malbec estuche con 2 unidades", 29776.14, 20, 6, "./assets/img-productos/bebidas/vino.png"),
+  new Product(2, "Cerveza Quilmes 6 pack", 8000.00, 30, 6, "./assets/img-productos/bebidas/cerveza.png"),
+  new Product(3, "Fernet Branca 750ml", 16000.00, 15, 6, "./assets/img-productos/bebidas/fernet.png"),
   new Product(4, "Espumante Chandon Extra Brut 750ml", 35000.00, 25, 6, "./assets/img-productos/bebidas/chandon.png"),
   new Product(5, "Vino Malbec Bodega Norton 750ml", 28000.00, 10, 6, "./assets/img-productos/bebidas/vino-norton.png"),
   new Product(6, "Gaseosa Coca-Cola 2.5L", 2200.00, 40, 6, "./assets/img-productos/bebidas/coca.png"),
@@ -28,7 +28,7 @@ let products = [
   new Product(21, "Espinacas (kg)", 320.00, 20, 0, "./assets/img-productos/frutas-vegetales/espinaca.png"),
     // Categoría Meats and Fish (id: 1)
   new Product(22, "Asado de Tira (kg)", 1600.00, 25, 1, "./assets/img-productos/carne-pescados/Asado de Tira (kg).png"),
-  new Product(23, "Bife de Chorizo (kg)", 2000.00, 20, 1, "./assets/img-productos/carne-pescados/Bife de Chorizo (kg).png"),
+  new Product(23, "Bife de Chorizo (kg)", 2100.00, 20, 1, "./assets/img-productos/carne-pescados/Bife de Chorizo (kg).png"),
   new Product(24, "Vacío (kg)", 1800.00, 30, 1, "./assets/img-productos/carne-pescados/Vacío (kg).png"),
   new Product(25, "Pechuga de Pollo (kg)", 1000.00, 40, 1, "./assets/img-productos/carne-pescados/Pechuga de Pollo (kg).png"),
   new Product(26, "Milanesa de Ternera (kg)", 1500.00, 25, 1, "./assets/img-productos/carne-pescados/Milanesa de Ternera (kg).png"),
