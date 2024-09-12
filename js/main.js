@@ -16,7 +16,7 @@ let products = [
   new Product(10, "Vino Torrontés Bodega Trapiche 750ml", 29500.00, 18, 6, "./assets/img-productos/bebidas/vino-blanco.png"),
   new Product(11, "Licor Amarula 500ml", 15000.00, 12, 6, "./assets/img-productos/bebidas/licorAmarula.png"),
   // Categoría Fruits and Vegetables (id: 0)
-  new Product(12, "Manzanas Granny Smith (kg)", 300.00, 50, 0, "./assets/img-productos/frutas-vegetales/manzana.png"),
+  new Product(12, "Manzanas verde (kg)", 300.00, 50, 0, "./assets/img-productos/frutas-vegetales/manzana.png"),
   new Product(13, "Naranjas (kg)", 250.00, 40, 0, "./assets/img-productos/frutas-vegetales/naranja.png"),
   new Product(14, "Peras Pack (kg)", 280.00, 30, 0, "./assets/img-productos/frutas-vegetales/peras.png"),
   new Product(15, "Tomates (kg)", 220.00, 25, 0, "./assets/img-productos/frutas-vegetales/tomate.png"),
