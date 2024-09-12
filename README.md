@@ -2,7 +2,7 @@
 
 Integrantes:
 
-- Patricio De Vicenten
+- Patricio De Vicente
 - Juani Mengochea
 - Lucia Hernando Steckler
 - Franco Martinez
