@@ -12,7 +12,7 @@ let products = [
   new Product(6, "Gaseosa Coca-Cola 2.5L", 2200.00, 40, 6, "./assets/img-productos/bebidas/coca.png"),
   new Product(7, "Agua Mineral Villavicencio 1.5L", 1500.00, 50, 6, "./assets/img-productos/bebidas/agua.png"),
   new Product(8, "Jugo de Naranja 1L", 1800.00, 35, 6, "./assets/img-productos/bebidas/bagio.png"),
-  new Product(9, "Sidra El Gaitero 750ml", 2500.00, 20, 6, "./assets/img-productos/bebidas/sidra.png"),
+  new Product(9, "Sidra para niños El Gaitero 750ml", 2500.00, 20, 6, "./assets/img-productos/bebidas/sidra.png"),
   new Product(10, "Vino Torrontés Bodega Trapiche 750ml", 29500.00, 18, 6, "./assets/img-productos/bebidas/vino-blanco.png"),
   new Product(11, "Licor Amarula 500ml", 15000.00, 12, 6, "./assets/img-productos/bebidas/licorAmarula.png"),
   // Categoría Fruits and Vegetables (id: 0)
@@ -24,7 +24,7 @@ let products = [
   new Product(17, "Zanahorias (kg)", 200.00, 55, 0, "./assets/img-productos/frutas-vegetales/zanahoria.png"),
   new Product(18, "Papas (kg)", 270.00, 45, 0, "./assets/img-productos/frutas-vegetales/papa.png"),
   new Product(19, "Cebollas (kg)", 240.00, 50, 0, "./assets/img-productos/frutas-vegetales/cebolla.png"),
-  new Product(20, "Aguacates (unidad)", 180.00, 35, 0, "./assets/img-productos/frutas-vegetales/palta.png"),
+  new Product(20, "paltas  (unidad)", 180.00, 35, 0, "./assets/img-productos/frutas-vegetales/palta.png"),
   new Product(21, "Espinacas (kg)", 320.00, 20, 0, "./assets/img-productos/frutas-vegetales/espinaca.png"),
     // Categoría Meats and Fish (id: 1)
   new Product(22, "Asado de Tira (kg)", 1600.00, 25, 1, "./assets/img-productos/carne-pescados/Asado de Tira (kg).png"),
